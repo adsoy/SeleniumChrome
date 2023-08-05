@@ -59,16 +59,3 @@ public class KahveMakinasi {
             System.out.println(hangiKahve + " " +boyut +  " " +  " içime hazırdır. Afiyet olsun !!!");
         }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
